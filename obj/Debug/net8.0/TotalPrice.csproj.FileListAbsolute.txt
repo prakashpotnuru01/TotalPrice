@@ -1,0 +1,14 @@
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\bin\Debug\net8.0\TotalPrice.exe
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\bin\Debug\net8.0\TotalPrice.deps.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\bin\Debug\net8.0\TotalPrice.runtimeconfig.json
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\bin\Debug\net8.0\TotalPrice.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\bin\Debug\net8.0\TotalPrice.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.AssemblyInfoInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.AssemblyInfo.cs
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.csproj.CoreCompileInputs.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\refint\TotalPrice.dll
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.pdb
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\TotalPrice.genruntimeconfig.cache
+C:\Users\JPOTNURU\Desktop\CSharp\TestStack\Inheritance\TotalPrice\obj\Debug\net8.0\ref\TotalPrice.dll
