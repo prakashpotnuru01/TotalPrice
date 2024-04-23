@@ -4,6 +4,7 @@ public class Program
 {
     public static void Main()
     {
+        Console.WriteLine("Total Price Branch testing in git")
         Console.WriteLine("1. Product Price Without Discount");
         Console.WriteLine("2. Product Price With Discount");
          
